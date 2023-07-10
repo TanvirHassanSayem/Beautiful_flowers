@@ -38,15 +38,15 @@
   position: absolute;
   top: 442px;
   left: 0;
-  border-radius: var(--br-5xs);
-  background-color: var(--color-indianred-100);
+  border-radius: 8px;
+  background-color: #e55473;
   display: flex;
   flex-direction: row;
-  padding: var(--padding-xl) var(--padding-24xl);
+  padding: 20px 43px;
   align-items: flex-start;
   justify-content: flex-start;
-  font-size: var(--font-size-xl);
-  color: var(--color-white);
+  font-size: 20px;
+  color: white;
 }
 .lets-make-beautiful-flowers-a-parent {
   position: absolute;
@@ -71,9 +71,9 @@
 }
 .it-is-a1 {
   top: 72px;
-  font-size: var(--font-size-lg);
+  font-size: 18px;
   line-height: 30px;
-  color: var(--color-gray-300);
+  color: gray;
   display: inline-block;
 }
 .our-featured-flowers-parent {
@@ -84,14 +84,17 @@
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-5xs);
+  border-radius: 8px;
   background-color: rgba(229, 84, 115, 0.05);
   width: 1922px;
   height: 620px;
 }
+
 .off {
-  color: var(--color-indianred-100);
+  color: #e55473;
+  
 }
+
 .hot-deal-container {
   position: absolute;
   top: 0;
@@ -102,9 +105,9 @@
   position: absolute;
   top: 72px;
   left: calc(50% - 297px);
-  font-size: var(--font-size-lg);
+  font-size: 18px;
   line-height: 30px;
-  color: var(--color-gray-300);
+  color: gray;
   text-align: center;
   display: inline-block;
   width: 594px;
@@ -113,15 +116,15 @@
   position: absolute;
   top: 164px;
   left: 208px;
-  border-radius: var(--br-5xs);
-  background-color: var(--color-indianred-100);
+  border-radius: 8px;
+  background-color:#e55473 ;
   display: flex;
   flex-direction: row;
-  padding: var(--padding-xl) var(--padding-24xl);
+  padding: 20px 43px;
   align-items: flex-start;
   justify-content: flex-start;
-  font-size: var(--font-size-xl);
-  color: var(--color-white);
+  font-size: 20px;
+  color: white;
 }
 .hot-deal-sale-up-to-25-off-parent {
   position: absolute;
@@ -155,7 +158,7 @@
   height: 449px;
 }
 .shop {
-  color: var(--color-white);
+  color: white;
 }
 .flowershop {
   position: absolute;
@@ -168,7 +171,7 @@
   position: absolute;
   top: 210px;
   left: calc(50% - 313px);
-  font-size: var(--font-size-lg);
+  font-size: 18px;
   line-height: 30px;
   color: rgba(255, 255, 255, 0.9);
   display: inline-block;
@@ -189,14 +192,14 @@
   width: 1922px;
   height: 449px;
   font-size: 48px;
-  color: var(--color-indianred-100);
+  color: #e55473;
 }
 
 .rectangle-div {
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-281xl) var(--br-281xl) 0 0;
+  border-radius: 300px 300px  0 0;
   background-color: rgba(34, 199, 207, 0.15);
   width: 464px;
   height: 538px;
@@ -229,7 +232,7 @@
 }
 .group-child3 {
   left: 0;
-  border-radius: var(--br-281xl) var(--br-281xl) 0 0;
+  border-radius: 300px 300px  0 0;
   background-color: rgba(167, 33, 98, 0.15);
   height: 538px;
 }
@@ -260,7 +263,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  border-radius: var(--br-281xl) var(--br-281xl) 0 0;
+  border-radius: 300px 300px  0 0;
   background-color: rgba(71, 125, 17, 0.15);
   width: 464px;
   height: 538px;
@@ -286,7 +289,7 @@
   top: 1208px;
   left: 240px;
   width: 1440px;
-  font-size: var(--font-size-5xl);
+  font-size: 24px;
 }
 
 
@@ -351,7 +354,7 @@
 .group-child5 {
   top: 0;
   left: 0;
-  border-radius: var(--br-5xs);
+  border-radius: 8px;
   width: 1440px;
   height: 449px;
 }
@@ -366,7 +369,7 @@
   position: absolute;
   top: 64px;
   left: calc(50% - 115.5px);
-  font-size: var(--font-size-lg);
+  font-size: 18px;
   line-height: 30px;
   color: gray;
 
@@ -402,8 +405,8 @@
 }
 .group-child7 {
   left: calc(50% - 75px);
-  border-radius: var(--br-5xs);
-  background-color: var(--color-indianred-100);
+  border-radius: 8px;
+  background-color: #e55473;
   width: 150px;
 }
 .subscribe {
@@ -421,7 +424,7 @@
   width: 150px;
   height: 64px;
   text-align: left;
-  font-size: var(--font-size-xl);
+  font-size: 20px;
   color: white;
 }
 
@@ -478,7 +481,7 @@
   height: 4867px;
   overflow: hidden;
   text-align: center;
-  font-size: var(--font-size-21xl);
+  font-size: 40px;
   color: black;
-  font-family: var(--font-lato);
+  font-family: Lato;
 }
