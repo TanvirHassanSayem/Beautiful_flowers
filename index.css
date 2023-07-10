@@ -6,15 +6,17 @@
   width: 1920px;
   height: 850px;
 }
+
 .it-is-a,
 .lets-make-beautiful {
   position: absolute;
   left: 0;
   display: inline-block;
 }
+
 .lets-make-beautiful {
   top: 0;
-  font-weight: 800;
+  font-weight: 700;
   width: 708px;
 }
 .it-is-a {
