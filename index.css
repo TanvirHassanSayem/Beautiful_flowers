@@ -315,6 +315,7 @@
   height: 396px;
   object-fit: cover;
 }
+
 .group-child5,
 .pngwing-10-icon,
 .rectangle-icon,
@@ -327,6 +328,8 @@
   height: 396px;
   object-fit: cover;
 }
+
+
 .group-child5,
 .pngwing-10-icon,
 .rectangle-icon,
@@ -352,6 +355,7 @@
   width: 1440px;
   height: 449px;
 }
+
 .get-the-latest {
   position: absolute;
   top: 0;
@@ -364,7 +368,9 @@
   left: calc(50% - 115.5px);
   font-size: var(--font-size-lg);
   line-height: 30px;
-  color: var(--color-gray-300);
+  color: gray;
+
+
 }
 .get-the-latest-deals-parent,
 .group-child6 {
@@ -376,8 +382,8 @@
 }
 .group-child6 {
   left: calc(50% - 350px);
-  border-radius: var(--br-5xs);
-  background-color: var(--color-white);
+  border-radius: 5xs;
+  background-color: white;
   width: 700px;
   height: 64px;
 }
@@ -411,29 +417,43 @@
 .rectangle-parent4 {
   position: absolute;
   top: 0;
-  left: calc(50% + 283px);
+  left: calc(50% + 300px);
   width: 150px;
   height: 64px;
   text-align: left;
   font-size: var(--font-size-xl);
   color: white;
 }
+
+
+
 .group-parent3,
 .group-parent4 {
   position: absolute;
-  left: calc(50% - 433px);
+  left: calc(50% - 385px);
   width: 866px;
 }
+
+
+
 .group-parent4 {
   top: 142px;
   height: 64px;
-  font-size: var(--font-size-base);
+  font-size: 15px;
   color: gray;
 }
+
+
+
 .group-parent3 {
   top: 122px;
   height: 206px;
+  font-weight: 900px;
 }
+
+
+
+
 .rectangle-parent2 {
   position: absolute;
   top: 3841px;
@@ -441,6 +461,16 @@
   width: 1440px;
   height: 449px;
 }
+
+
+
+
+
+
+
+
+
+
 .website-design {
   position: relative;
   background-color:white;
